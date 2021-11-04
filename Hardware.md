@@ -1,10 +1,17 @@
 <span align="center">
 
 # My Hardware
+For those interested in the machines I use.
 
-[Back to the main Page](../README.md)
+[My Main PC](#my-main-pc)
+&nbsp;&nbsp;&nbsp;
+[My Laptop](#my-laptop)
+&nbsp;&nbsp;&nbsp;
+[My Server](#my-server)
 
-## My Main PC Setup
+&nbsp;
+
+## My Main PC
 
 Used for anything, from Gaming to Coding. <br>
 The machine is heavily focused on it's CPU and RAM to provide enough power for local Servers, countless Tasks whilst not slowing down. <br>
@@ -18,6 +25,8 @@ The machine is heavily focused on it's CPU and RAM to provide enough power for l
 ![](https://img.shields.io/badge/RAM-32GB_DDR4_@3600mHz-informational?style=flat&logo=Corsair&logoColor=white&color=000000)
 ![](https://img.shields.io/badge/SSD-2.5TB_NvMe-informational?style=flat&logoColor=white&color=2bbc8a)
 
+&nbsp;
+
 ![](https://img.shields.io/badge/Keyboard-G910-informational?style=flat&logo=Logitech&logoColor=white&color=00B8FC)
 ![](https://img.shields.io/badge/Mouse-G903-informational?style=flat&logo=Logitech&logoColor=white&color=00B8FC)
 ![](https://img.shields.io/badge/Headset-Virtuoso_SE-informational?style=flat&logo=Corsair&logoColor=white&color=000000)
@@ -27,7 +36,6 @@ The machine is heavily focused on it's CPU and RAM to provide enough power for l
 ## My Laptop
 
 My Microsoft Surface's main uses are working in school as well as smaller workloads while not at my main Desk. <br>
-It couldn't handle heavy workloads after all.
 
 ![](https://img.shields.io/badge/Laptop-Surface_Pro_7-informational?style=flat&logo=Windows&logoColor=white&color=0078D6)
 ![](https://img.shields.io/badge/OS-Windows_11-informational?style=flat&logo=Windows&logoColor=white&color=0078D6)
@@ -41,7 +49,7 @@ It couldn't handle heavy workloads after all.
 ## My Server
 
 My Server is shared between me and some friends. <br>
-Next to some Gameservers we have there it's used to host Databases, small Java Applications as well as the main Wildfly Application Server for my Website.<br>
+Next to some Gameservers it's used to host Databases, small Java Applications as well as the main Wildfly Application Server for my Website.<br>
 <br>
 The Server is hosted by [Hetzner](https://www.hetzner.com/de/)
 
@@ -55,6 +63,6 @@ The Server is hosted by [Hetzner](https://www.hetzner.com/de/)
 &nbsp;
 
 -----
-[Back to the main Page](../README.md)
+[Back to the main Page](../master/README.md)
 
 </span>
