@@ -61,7 +61,7 @@ To learn more about my technical skills see the [Programming Languages Chapter](
 -----
 [Back to the Top](#)
 &nbsp;&nbsp;&nbsp;
-[My Hardware](../Hardware.md)
+[My Hardware](../master/Hardware.md)
 &nbsp;&nbsp;&nbsp;
 [Further reading](#further-reading)
 
