@@ -23,7 +23,7 @@ Take some time and look around! <br>
 ## Programming Languages and Tools
 
 This is a **short** overview over notable programming Skills. <br>
-Take a look at the [detailed Page](#../master/DetailedProgramming.md) for my full Skillset!
+Take a look at the [detailed Page](../master/DetailedProgramming.md) for my full Skillset!
 
 ### Programming Languages
 
@@ -43,7 +43,7 @@ Take a look at the [detailed Page](#../master/DetailedProgramming.md) for my ful
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=white&color=0078D6)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Linux&logoColor=white&color=FCC624)
 
-You want to know the details? See [here](#../master/DetailedProgramming.md)!
+You want to know the details? See [here](../master/DetailedProgramming.md)!
 
 &nbsp;
 
@@ -61,7 +61,7 @@ Add me on Discord: [@Velyn#2497]() <br>
 
 [My Hardware](../master/Hardware.md)
 &nbsp;&nbsp;&nbsp;
-[Detailed Programming](#../master/DetailedProgramming.md)
+[Detailed Programming](../master/DetailedProgramming.md)
 
 
 </span>
