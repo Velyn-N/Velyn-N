@@ -21,7 +21,7 @@ Full Stack Web Developer
 ## Contact me!
 
 E-Mail: (nils01sg.nl@gmail.com) <br>
-Add me on Discord: [@Velyn#2497]() <br>
+Add me on Discord: [velyn_]() <br>
 
 &nbsp;
 
